@@ -1,2 +1,2 @@
 # MultiBCI
-Mater Project: EEG based Visual-tactile Multisensory BCI
+EEG based Visual-tactile Multisensory BCI
